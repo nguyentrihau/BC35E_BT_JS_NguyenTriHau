@@ -4,8 +4,8 @@
  * Nhap: a = 69
  * 
  * - Xu ly:
- * So_hang_dv : int so_hang_dv = a % 10;
- * so_hang_chuc : int so_hang_chuc = a / 10;
+ * So_hang_dv :  so_hang_dv = a % 10;
+ * so_hang_chuc :  so_hang_chuc = Math.floor(a / 10);
  * Tong_hai_kyso = so_hang_dv + so_hang_chuc;
  * 
  * - Dau ra:
